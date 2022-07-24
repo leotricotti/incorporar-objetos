@@ -458,13 +458,9 @@ div::after {
 
 .separador {
   width: 100%;
-  height: 50vh;
+  height: 40vh;
   background-color: transparent;
-  
-
 }
-
-
 
 /* Media Query */
 
